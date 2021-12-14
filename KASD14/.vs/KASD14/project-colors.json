@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a355eb4-aec0-4e07-b95d-742e8ff2345a": {
+      "ProjectGuid": "9a355eb4-aec0-4e07-b95d-742e8ff2345a",
+      "DisplayName": "KASD14",
+      "ColorIndex": 0
+    },
+    "4dca7b62-d9e7-4c35-b598-91e5597fb038": {
+      "ProjectGuid": "4dca7b62-d9e7-4c35-b598-91e5597fb038",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    },
+    "71d9de89-f34e-4db0-b763-fcb1319e565a": {
+      "ProjectGuid": "71d9de89-f34e-4db0-b763-fcb1319e565a",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

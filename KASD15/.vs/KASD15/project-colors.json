@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c30842a8-aae2-447c-b56e-576d88223649": {
+      "ProjectGuid": "c30842a8-aae2-447c-b56e-576d88223649",
+      "DisplayName": "KASD15",
+      "ColorIndex": 0
+    },
+    "0f655979-42ab-4ea7-86d1-8ad8389d4290": {
+      "ProjectGuid": "0f655979-42ab-4ea7-86d1-8ad8389d4290",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

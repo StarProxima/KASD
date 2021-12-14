@@ -1,0 +1,11 @@
+C:\Users\maksp\source\repos\KASD15\KASD15\bin\Debug\KASD15.exe.config
+C:\Users\maksp\source\repos\KASD15\KASD15\bin\Debug\KASD15.exe
+C:\Users\maksp\source\repos\KASD15\KASD15\bin\Debug\KASD15.pdb
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.Form1.resources
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.Properties.Resources.resources
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.csproj.GenerateResource.cache
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.csproj.CoreCompileInputs.cache
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.exe
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.pdb
+C:\Users\maksp\source\repos\KASD15\KASD15\obj\Debug\KASD15.csproj.AssemblyReference.cache
